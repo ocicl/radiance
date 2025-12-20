@@ -2,8 +2,8 @@
 
 A Common Lisp web application environment.
 
-|---------+-----------------------------------------------|
-| source  | git:https://github.com/Shirakumo/radiance.git |
-| commit  | e011749                                       |
-| systems | radiance radiance-core                        |
-|---------+-----------------------------------------------|
+|---------+------------------------------------------------|
+| source  | git:https://codeberg.org/shirakumo/radiance.git |
+| commit  | 10a8c80                                        |
+| systems | radiance radiance-core                         |
+|---------+------------------------------------------------|
