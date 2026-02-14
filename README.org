@@ -4,6 +4,6 @@ A Common Lisp web application environment.
 
 |---------+------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/radiance.git |
-| commit  | d4112fc                                        |
+| commit  | 1e2956a                                        |
 | systems | radiance radiance-core                         |
 |---------+------------------------------------------------|
